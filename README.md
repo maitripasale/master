@@ -1,2 +1,0 @@
-# master
-just another repository
